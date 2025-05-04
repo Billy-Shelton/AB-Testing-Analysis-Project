@@ -8,5 +8,7 @@ extrapolate overall performance as well as actionable changes that could potenti
 
 [Check out my findings here!](https://github.com/Billy-Shelton/AB-Testing-Analysis-Project/blob/main/AB%20Testing%20Project.xlsx)
 
+![Dashboard](https://github.com/Billy-Shelton/AB-Testing-Analysis-Project/blob/main/.Pictures/Screenshot%202025-05-01%20224515.png)
+
 
 
