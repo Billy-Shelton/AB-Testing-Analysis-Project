@@ -1,1 +1,6 @@
+# A/B_Analysis
+ This repo features analysis and findings of an A/B group dataset.
+
+ ## Analysis
+Utilizing power pivot along with minor formula use, I created multiple visulizations to allow for insights between a control group and a test group to analyse both the postive and negative trends in changing a button of a website.
 
