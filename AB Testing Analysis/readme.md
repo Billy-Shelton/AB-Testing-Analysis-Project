@@ -61,9 +61,10 @@ This dataset contains the results of end-user behavior, split between a control 
 - **Opportunities for Improvements:** The title of the chart does not accurately reflect the data shown, in that it does not state the test group is the one being focused on. Improving the title to reflect the intent of the data shown should should be the first step towards better clarity.
 
 **Enhanced Data Validation:**
-![Tags](https://github.com/Billy-Shelton/Analysis_of_the_top_50_programs_sold_on_Amazon/blob/main/Comparison%20Dashboard/.pictures/image_2025-04-14_222628639.png?raw=true)
 
-- **Reasioning:** 
+![Tags](https://github.com/Billy-Shelton/AB-Testing-Analysis-Project/blob/main/.Pictures/Screenshot%202025-05-06%20000314.png?raw=true)
+
+- **Reasioning:** To further breakdown the data, I converted the number of unique 
 
 ## Conclusion
 
