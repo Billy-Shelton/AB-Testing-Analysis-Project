@@ -52,12 +52,13 @@ This dataset contains the results of end-user behavior, split between a control 
 **Opportunities for Improvements:** The chart title does not allow full clarity of the data, not showcasing it is solely focused on the test group. Changes to this would allow for full data clarity and visual understanding.
 
 **Stacked Coloumn Chart**
+
 ![Stacked Coloumn](https://github.com/Billy-Shelton/AB-Testing-Analysis-Project/blob/main/.Pictures/Screenshot%202025-05-04%20030310.png)
 
-- **Design Choice:**  
-- **Data Organization:** 
-- **Insights Gained:** 
-- **Opportunities for Improvements:** 
+- **Design Choice:** The use of a stacked bar chart allows for easy data clarity between the two comparisons in each bar. This fully utilizes the space of the chart with the intent to not overwhelm with the data. The further support this the specific percentages of each stack where placed at the top of each bar, matched to color. This was done for heightened clarity and understanding of the visuals. 
+- **Data Organization:** Views were placed first, at the bottom of each stacked bar, to show unengaged end-users and potential for growth. The top half of the stacked bars was clicks, showing overall success as well as potential points to expand on for growth.
+- **Insights Gained:** When looking at the chart, we can see that the new button has met the eyes of a fair amount of users but hasn't engaged them to click on it. Following over to bar two, there is actually an large engagement of 1 time clicks from end-users. A revaluation of the button may be needed to encourage clicking, as well as further engagement afterwards. 
+- **Opportunities for Improvements:** The title of the chart does not accurately reflect the data shown, in that it does not state the test group is the one being focused on. Improving the title to reflect the intent of the data shown should should be the first step towards better clarity.
 
 **Enhanced Data Validation:**
 ![Tags](https://github.com/Billy-Shelton/Analysis_of_the_top_50_programs_sold_on_Amazon/blob/main/Comparison%20Dashboard/.pictures/image_2025-04-14_222628639.png?raw=true)
