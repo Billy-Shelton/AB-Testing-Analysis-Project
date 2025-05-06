@@ -64,7 +64,7 @@ This dataset contains the results of end-user behavior, split between a control 
 
 ![Tags](https://github.com/Billy-Shelton/AB-Testing-Analysis-Project/blob/main/.Pictures/Screenshot%202025-05-06%20000314.png?raw=true)
 
-- **Reasioning:** To further breakdown the data, I converted the number of unique 
+- **Reasioning:** To further breakdown the data, I converted the number of clicks by the unique user IDS into a coloumn showing if 0 = Did not Click and for eveything else = Did Click. This allowed me to further show unique user interaction while being unaffected by total clicks of the unque user ID. This allows for a true break down of the actual reach of the button change.  
 
 ## Conclusion
 
