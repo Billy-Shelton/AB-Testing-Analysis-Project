@@ -67,8 +67,7 @@ This dataset contains the results of end-user behavior, split between a control 
 - **Reasioning:** To further breakdown the data, I converted the number of clicks by the unique user IDS into a coloumn showing if 0 = Did not Click and for eveything else = Did Click. This allowed me to further show unique user interaction while being unaffected by total clicks of the unque user ID. This allows for a true break down of the actual reach of the button change.  
 
 ## Conclusion
-
-   
+I have created a focused and visulized analysis and breakdown of the dataset, orginizing it as needed to gain the most insighs fromt within the limits of the data itself. Factoring in adjacent insights that could be gleamed from the corrosponding provided data and actualizing them with clarity in mind. The end result has been an in-depth look at the data, potential points what had not been originally factored, and actionable insights and understanding to move forward with.
 
 
 
